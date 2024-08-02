@@ -1,1 +1,25 @@
 The start of a big python journey!!! Lotta things to learn and cherish.
+
+--
+
+1. First we make a print statement.
+2. Then we store the user's typing into a variable. This is done with input.
+We can have prompt inside of the input() that displays, and the user and type after
+that. Don't forget to add the space after the prompt within the string.
+3. If the user doesn't want to play then we quit. If their input is anything
+but yes, we end it with quit().
+4. Then we can ask them questions as seen in the .py file.
+
+**Special
+- We can add .lower() to something to make it all lowercase.
+
+5. Let's add a score. We init the score variable when we start the game.
+6. We add the score in the if statements.
+7. We display the score, making sure to turn it into a string in the output statment.
+8. You can do some alegrba to the score before you output it too!
+
+**Special
+- Don't forget the plus signs when doing the print statement.
+
+SPECAIL ALTERNATION
+Make some questions worth more points.
